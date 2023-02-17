@@ -9,4 +9,4 @@
 
 - 🤖 I'm starting in Python, R and PostGresSQL.
 
-- 🕊️ my aspiration in life is to manage to have a comfortable life.
+- 🕊️ My aspiration in life is to manage to have a comfortable life.
