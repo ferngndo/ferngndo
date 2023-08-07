@@ -1,12 +1,12 @@
 ### Hello, World ✨
 
 
-- 🗺️ I'm a Geoghapy student;
+- 🗺️ I'm a Geography student;
 
 - 🌱 I’m currently learning Geoprocessing and Remote Sensing;
 
 - 🎮 I'm loving Programming;
 
-- 🤖 I'm starting in Python, R and PostGresSQL.
+- 🤖 I'm starting in Python, JavaScript and PostgreSQL with PostGIS.
 
 - 🕊️ My aspiration in life is to manage to have a comfortable life.
