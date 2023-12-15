@@ -8,5 +8,3 @@
 - 🎮 I'm loving Programming;
 
 - 🤖 I'm starting in Python, JavaScript and PostgreSQL with PostGIS.
-
-- 🕊️ My aspiration in life is to manage to have a comfortable life.
